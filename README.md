@@ -1,5 +1,7 @@
 # Udagram Image Filtering Microservice
 
+Note: please 'cd devcloud_project2' after you clone the git repo, then 'npm install'
+
 git: https://github.com/alansparrow/devcloud_project2
 
 web: http://image-filter-starter-code-dev.ap-northeast-2.elasticbeanstalk.com/
